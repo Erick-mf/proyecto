@@ -1,0 +1,2 @@
+Usuario,usuario,usuario
+Empleado,empleado,empleado
